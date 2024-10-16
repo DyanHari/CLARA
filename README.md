@@ -13,6 +13,6 @@ John Harry M. Duavis,
 Jasmin P. Perolina, 
 JC Lhyn Aniar, 
 Michael John P. Arevalo, 
-Kaile Lorde M. Malimban, 
+Kaile Lorde M. Malimban
 
 Heres an overview of the app: https://imgur.com/a/clara-ai-java-chatbot-EJUTpYr
