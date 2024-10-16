@@ -1,16 +1,18 @@
-# loggingg
+# Clara An AI JAVA Chatbot
 
-A new Flutter project.
+A mobile application assistant chatbot for learning Java.
 
-## Getting Started
+Clara is an artificial intelligence (AI) chatbot powered by a pre-trained large language model (LLM) known as Gemma, created by Google. Clara is designed to facilitate user acquisition of Java programming language concepts and provide comprehensive explanations on a wide range of Java topics.
 
-This project is a starting point for a Flutter application.
+Clara is a thesis project developed by a team of computer science students at Cavite State University.
 
-A few resources to get you started if this is your first Flutter project:
+Team Members:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+John Paolo P. Coyoca
+John Harry M. Duavis
+Jasmin P. Perolina
+JC Lhyn Aniar
+Michael John P. Arevalo
+Kaile Lorde M. Malimban
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Heres an overview of the app: https://imgur.com/a/clara-ai-java-chatbot-EJUTpYr
