@@ -8,11 +8,11 @@ Clara is a thesis project developed by a team of computer science students at Ca
 
 Team Members:
 
-John Paolo P. Coyoca
-John Harry M. Duavis
-Jasmin P. Perolina
-JC Lhyn Aniar
-Michael John P. Arevalo
-Kaile Lorde M. Malimban
+John Paolo P. Coyoca, 
+John Harry M. Duavis, 
+Jasmin P. Perolina, 
+JC Lhyn Aniar, 
+Michael John P. Arevalo, 
+Kaile Lorde M. Malimban, 
 
 Heres an overview of the app: https://imgur.com/a/clara-ai-java-chatbot-EJUTpYr
