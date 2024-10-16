@@ -1,4 +1,4 @@
-# Clara An AI JAVA Chatbot
+# Clara The Tutorial Chabot for Java Programming
 
 A mobile application assistant chatbot for learning Java.
 
