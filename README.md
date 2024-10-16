@@ -18,9 +18,7 @@ Kaile Lorde M. Malimban
 Heres an overview of the app: 
 
 ![1](https://github.com/user-attachments/assets/1d8bce8f-84ca-4a5c-8fe5-49d60584e882)
-![4](https://github.com/user-attachments/assets/192bfe98-c691-45bc-9d17-8c519704b5e0)
 ![8](https://github.com/user-attachments/assets/2e9e6e00-6f79-4c55-aef4-dc1a0a530a59)
-![9](https://github.com/user-attachments/assets/55643273-2e5e-4715-b2ed-4cab25298cc5)
 ![10](https://github.com/user-attachments/assets/7b4c7863-2f42-438e-8b28-7d52185b0e3e)
 ![11 1-download msg](https://github.com/user-attachments/assets/3cd4f142-71a6-4281-8c0a-0ebb144e1bc9)
 ![11-chatboscreen](https://github.com/user-attachments/assets/aa70836b-49ab-4912-97f5-d176d59874ab)
