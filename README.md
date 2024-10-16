@@ -24,7 +24,8 @@ Heres an overview of the app:
 ![11-chatboscreen](https://github.com/user-attachments/assets/aa70836b-49ab-4912-97f5-d176d59874ab)
 ![12](https://github.com/user-attachments/assets/f44930f5-5563-4b46-9fb2-5930b8c21ca6)
 ![14-saved msgs](https://github.com/user-attachments/assets/dd978340-2441-427a-9ec7-7b0c1065f9f4)
-![16](https://github.com/user-attachments/assets/a9bace2d-890b-466f-9e88-594c340ca2d9)
+
+Heres the link for more images: https://imgur.com/a/clara-ai-java-chatbot-EJUTpYr
 
 
 
